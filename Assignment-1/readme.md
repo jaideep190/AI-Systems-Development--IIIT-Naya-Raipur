@@ -1,4 +1,6 @@
+Instructions
 
+````markdown
 # Movie Semantic Search Assignment
 
 This repository contains my solution for the semantic search on movie plots assignment.
@@ -15,7 +17,8 @@ This repository contains my solution for the semantic search on movie plots assi
    ```bash
    pip install -r requirements.txt
    ```
-3. Open notebook
+
+3. Open the notebook
 
    ```bash
    jupyter notebook movie_search_solution.ipynb
@@ -35,3 +38,4 @@ print(search_movies("spy thriller in Paris", 5))
 ```bash
 python -m unittest tests/test_movie_search.py -v
 ```
+
