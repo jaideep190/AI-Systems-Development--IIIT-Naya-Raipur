@@ -35,12 +35,3 @@ print(search_movies("spy thriller in Paris", 5))
 ```bash
 python -m unittest tests/test_movie_search.py -v
 ```
-
-```
-
----
-
-Once you copy these files into your repo (along with `movies.csv` and `tests/test_movie_search.py` from the template), just **commit + push**, then submit the repo link.  
-
-Do you want me to also spit out the `.gitignore` contents so your repo looks 100% correct?
-```
